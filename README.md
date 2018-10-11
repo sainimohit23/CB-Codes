@@ -4,4 +4,4 @@
 
 *In main folder of every week the codes are made by instructor*.
 
-*Under every week's code folder there's folder named codes where I just recoded the codes taught in the class*.
+*Under every week's code folder there's folder named codes where I just re-coded the codes taught in the class*.
